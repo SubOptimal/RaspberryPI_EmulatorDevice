@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<skin name="RaspberryPI_EmulatorDevice" runtime="meep">
+    <description><![CDATA[emulator for the Raspberry PI B (Rev. 2) - version 0.0.1]]></description>
+    <deviceConfiguration id="CLDC" version="1.8"/>
+    <deviceProfile id="MEEP" version="8.0"/>
+    <gpio>
+        <pin port_number="0" name="GPIO2" id="2" trigger="3" value="false" pin_number="2" direction="0"/>
+        <pin port_number="0" name="GPIO3" id="3" trigger="3" value="false" pin_number="3" direction="0"/>
+        <pin port_number="0" name="GPIO4" id="4" trigger="3" value="false" pin_number="4" direction="0"/>
+        <pin port_number="0" name="GPIO7" id="7" trigger="3" value="false" pin_number="7" direction="1"/>
+        <pin port_number="0" name="GPIO8" id="8" trigger="3" value="false" pin_number="8" direction="1"/>
+        <pin port_number="0" name="GPIO9" id="9" trigger="3" value="false" pin_number="9" direction="0"/>
+        <pin port_number="0" name="GPIO10" id="10" trigger="3" value="false" pin_number="10" direction="0"/>
+        <pin port_number="0" name="GPIO11" id="11" trigger="3" value="false" pin_number="11" direction="0"/>
+        <pin port_number="0" name="GPIO14" id="14" trigger="3" value="false" pin_number="14" direction="1"/>
+        <pin port_number="0" name="GPIO15" id="15" trigger="3" value="false" pin_number="15" direction="1"/>
+        <pin port_number="0" name="GPIO23" id="23" trigger="3" value="false" pin_number="16" direction="1"/>
+        <pin port_number="0" name="GPIO17" id="17" trigger="3" value="false" pin_number="17" direction="0"/>
+        <pin port_number="0" name="GPIO18" id="18" trigger="0" value="false" pin_number="18" direction="1"/>
+        <pin port_number="0" name="GPIO22" id="22" trigger="3" value="false" pin_number="19" direction="0"/>
+    </gpio>
+</skin>
