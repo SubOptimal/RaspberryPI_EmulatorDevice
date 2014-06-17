@@ -20,6 +20,6 @@
         <pin port_number="0" name="GPIO22" id="22" trigger="3" value="false" pin_number="22" direction="0"/>
         <pin port_number="0" name="GPIO24" id="24" trigger="3" value="false" pin_number="24" direction="1"/>
         <pin port_number="0" name="GPIO25" id="25" trigger="3" value="false" pin_number="25" direction="1"/>
-        <pin port_number="0" name="GPIO27" id="26" trigger="3" value="false" pin_number="27" direction="0"/>
+        <pin port_number="0" name="GPIO27" id="27" trigger="3" value="false" pin_number="27" direction="0"/>
     </gpio>
 </skin>
