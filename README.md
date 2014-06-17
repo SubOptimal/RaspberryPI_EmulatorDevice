@@ -46,6 +46,9 @@ ID | Name | H/W Port | H/W Pin  | IN/OUT
 18 | GPIO18 | 0 | 18 | OUT
 22 | GPIO22 | 0 | 22 | IN
 23 | GPIO23 | 0 | 23 | OUT
+24 | GPIO24 | 0 | 24 | OUT
+25 | GPIO25 | 0 | 25 | OUT
+26 | GPIO27 | 0 | 27 | IN
  
 
 # Usage #
