@@ -14,9 +14,9 @@
         <pin port_number="0" name="GPIO11" id="11" trigger="3" value="false" pin_number="11" direction="0"/>
         <pin port_number="0" name="GPIO14" id="14" trigger="3" value="false" pin_number="14" direction="1"/>
         <pin port_number="0" name="GPIO15" id="15" trigger="3" value="false" pin_number="15" direction="1"/>
-        <pin port_number="0" name="GPIO23" id="23" trigger="3" value="false" pin_number="16" direction="1"/>
+        <pin port_number="0" name="GPIO23" id="23" trigger="3" value="false" pin_number="23" direction="1"/>
         <pin port_number="0" name="GPIO17" id="17" trigger="3" value="false" pin_number="17" direction="0"/>
         <pin port_number="0" name="GPIO18" id="18" trigger="0" value="false" pin_number="18" direction="1"/>
-        <pin port_number="0" name="GPIO22" id="22" trigger="3" value="false" pin_number="19" direction="0"/>
+        <pin port_number="0" name="GPIO22" id="22" trigger="3" value="false" pin_number="22" direction="0"/>
     </gpio>
 </skin>
